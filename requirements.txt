@@ -1,0 +1,2 @@
+Django==4.2
+psutil==7.0.0
